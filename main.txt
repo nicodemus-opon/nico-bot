@@ -1,0 +1,3 @@
+@ECHO OFF
+main.py
+EXIT /B
